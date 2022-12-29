@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-hw4-gui", "ce205-hw4-gui\ce205-hw4-gui.csproj", "{83F4BAFF-30EA-4F5F-B79F-8A22347AD71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-hw4-test", "ce205-hw4-test\ce205-hw4-test.csproj", "{166824FF-FA1B-46ED-97BC-5835651AA33A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F4BAFF-30EA-4F5F-B79F-8A22347AD71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F4BAFF-30EA-4F5F-B79F-8A22347AD71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F4BAFF-30EA-4F5F-B79F-8A22347AD71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F4BAFF-30EA-4F5F-B79F-8A22347AD71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166824FF-FA1B-46ED-97BC-5835651AA33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166824FF-FA1B-46ED-97BC-5835651AA33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166824FF-FA1B-46ED-97BC-5835651AA33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166824FF-FA1B-46ED-97BC-5835651AA33A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B929CCDE-DB51-4202-84D3-4D756A2AF4F3}
+	EndGlobalSection
+EndGlobal
